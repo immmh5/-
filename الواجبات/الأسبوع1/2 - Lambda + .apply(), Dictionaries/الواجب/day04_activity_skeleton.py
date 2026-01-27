@@ -29,3 +29,5 @@ students = {
 }
 
 # TODO: Implement the tasks above using nested dict access.
+
+print(students["S001"]["courses"]["AI301"])
