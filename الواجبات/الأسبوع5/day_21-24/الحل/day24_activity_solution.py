@@ -1,7 +1,3 @@
-"""
-Day 24 Activity Solution: Feature Selection
-"""
-
 import pandas as pd
 import numpy as np
 from sklearn.feature_selection import VarianceThreshold
